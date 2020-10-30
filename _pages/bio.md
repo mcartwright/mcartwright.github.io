@@ -21,6 +21,7 @@ News
 {% for post in site.posts limit:5  %}
   <a href="{{ post.url | relative_url }}" rel="permalink">{{ post.date | date: "%B %Y"}}</a> - {{ post.blurb }}
 {% endfor %}
+[&#8250; See all news posts](/categories/#news)
 
 
 Current Affiliations
