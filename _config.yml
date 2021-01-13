@@ -111,7 +111,7 @@ author:
   avatar           : "/assets/images/cartwright-bio-photo.png"
   bio              : "Assistant Professor<br />New Jersey Institute of Technology"
   location         : "Brooklyn, NY"
-  email            : "mcartwright@gmail.com"
+  email            : "mark.cartwright@njit.edu"
   links:
     - label: "Google Scholar"
       icon: "fas fa-fw fa-graduation-cap"
