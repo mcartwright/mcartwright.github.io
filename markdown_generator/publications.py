@@ -35,7 +35,7 @@ import pandas as pd
 # In[3]:
 
 #publications = pd.read_csv("publications.tsv", sep="\t", header=0, encoding='latin-1')
-publications = pd.read_excel("publications.xlsx", sep="\t", header=0, encoding='latin-1')
+publications = pd.read_excel("publications.xlsx", sep="\t", header=0, encoding='latin-1', engine='openpyxl')
 
 
 # ## Escape special characters
