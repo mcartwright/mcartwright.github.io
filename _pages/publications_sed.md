@@ -7,7 +7,7 @@ taxonomy: Sound Event Detection
 ---
 
 <section class="taxonomy__section">
-{% for post in site.publications %}
+{% for post in site.publications reversed %}
   {% if post.categories contains page.taxonomy %}
       <div class="entries-{{ page.entries_layout | default: 'list' }}">
           <p class="archive__item-excerpt" itemprop="description">
