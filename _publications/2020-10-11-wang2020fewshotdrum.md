@@ -9,6 +9,8 @@ venue: 'International Society for Music Information Retrieval Conference (ISMIR)
 paperurl: '/files/wang2020fewshotdrum.pdf'
 image: '/assets/images/fewshot_drums.png'
 imagewidth: 100.0
+video_id: 'GqHi_KoEvzE'
+poster: '/files/wang2020fewshotdrum_poster.pdf'
 categories: 
   - Music Information Retrieval
 citation: 'Wang, Y., Salamon, J., Cartwright, M., Bryan, N.J., Bello, J.P. Few-Shot Drum Transcription in Polyphonic Music.  In <i>Proceedings of the International Society for Music Information Retrieval Conference (ISMIR)</i>, 2020.'
