@@ -30,7 +30,7 @@ Contact
 -------
 <address>
     New Jersey Institute of Technology<br />
-    GITC, Room 3500<br />
+    GITC, Room 3902E<br />
     University Heights,<br /> 
     Newark, New Jersey 07102<br />
 </address>
