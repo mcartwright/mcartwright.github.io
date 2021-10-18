@@ -9,6 +9,7 @@ venue: 'IEEE International Conference on Acoustics, Speech and Signal Processing
 paperurl: '/files/srivastava2021specialized.pdf'
 image: '/assets/images/specialized_embedding.png'
 imagewidth: 100.0
+presentation: '/files/srivastava2021specialized_presentation.pdf'
 poster: '/files/srivastava2021specialized_poster.pdf'
 code: 'https://github.com/ksangeeta2429/edgel3'
 codename: 'EdgeL3 python package'
