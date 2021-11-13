@@ -28,6 +28,11 @@ Current Affiliations
 * [Department of Informatics](https://informatics.njit.edu/)
 * [Center for AI Research](https://research.njit.edu/ai/)
 
+PhD Advisees
+--------
+* [Keita Ohshiro](https://bick-jp.github.io/)
+* [Sripathi Sridhar](https://www.sripathisridhar.com/)
+
 Contact
 -------
 <address>
