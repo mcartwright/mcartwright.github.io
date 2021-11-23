@@ -24,7 +24,7 @@ Most of this research has been conducted in the context of the [Sounds of New Yo
 - [Increasing Drum Transcription Vocabulary Using Data Synthesis (*DAFx*)](/publications/2018-09-01-cartwright2018increasing)
 - [Seeing Sound: Investigating the Effects of Visualizations and Complexity on Crowdsourced Audio Annotations (*CSCW*)](/publications/2017-11-01-cartwright2017seeing)
 
-## Natural Audio Production Interfaces
+## Human-Centered Audio Production Tools
 ![synthassist](/assets/images/synthassist.png){: .align-left height="250px" width="250px"}
 The way we interact with audio production tools relies on the conventions established in the 1970s for audio engineers. 
 Users communicate their audio concepts to these complex tools using knobs and sliders that control low-level technical parameters. 
@@ -32,7 +32,7 @@ Musicians currently need technical knowledge of signals in addition to their mus
 However, many experienced and casual musicians simply do not have the time or desire to acquire this technical knowledge. 
 While simpler tools (e.g. Apple&apos;s GarageBand) exist, they are limiting and frustrating to users. 
 In this research, I focus on bridging the gap between the intentions of both amateur and professional musicians and the audio manipulation tools available through software. 
-Rather than force nonintuitive interactions, or remove control altogether, we reframe the controls to work within the interaction paradigms identified by research done on how audio engineers and musicians communicate auditory concepts to each other: evaluative feedback, natural language, vocal imitation, and exploration.
+Rather than force nonintuitive interactions, or remove control altogether, we reframe the controls to work within the interaction paradigms identified by research on how audio engineers and musicians communicate auditory concepts to each other: evaluative feedback, natural language, vocal imitation, and exploration.
 
 ### Demos
 - [SynthAssist](/publications/2014-07-01-cartwright2014synthassistquerying)
