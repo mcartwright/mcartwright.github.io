@@ -2,13 +2,11 @@
 main:
    - title: "Home"
      url: /bio/
-   - title: "Research"
-     url: /research/
    - title: "Publications"
-     url: /publications/
-   - title: "Software and Data"
-     url: /software-and-data/
+     url: http://sinc-lab.com/publications/
    - title: "Music"
      url: /music/
    - title: "CV"
      url: /files/cv.pdf
+   - title: "SInC Lab"
+     url: http://sinc-lab.com
