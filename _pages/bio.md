@@ -17,7 +17,7 @@ I am an Assistant Professor at New Jersey Institute of Technology in the [Depart
 
 Current Affiliations
 -------
-* [Sound Interaction and Computing (SInC) Lab](http://www.sinc-lab.com)
+* [Sound Interaction and Computing (SInC) Lab](https://www.sinc-lab.com)
 * [Department of Informatics](https://informatics.njit.edu/)
 * [Center for AI Research](https://research.njit.edu/ai/)
 

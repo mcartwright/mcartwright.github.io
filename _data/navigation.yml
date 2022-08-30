@@ -3,10 +3,10 @@ main:
    - title: "Home"
      url: /bio/
    - title: "Publications"
-     url: http://sinc-lab.com/publications/
+     url: https://sinc-lab.com/publications/
    - title: "Music"
      url: /music/
    - title: "CV"
      url: /files/cv.pdf
    - title: "SInC Lab"
-     url: http://sinc-lab.com
+     url: https://sinc-lab.com
