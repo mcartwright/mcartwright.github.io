@@ -26,6 +26,7 @@ PhD Advisees
 --------
 * [Keita Ohshiro](https://bick-jp.github.io/)
 * [Sripathi Sridhar](https://www.sripathisridhar.com/)
+* [Michael Clemens](http://mclem.in/)
 
 Contact
 -------
