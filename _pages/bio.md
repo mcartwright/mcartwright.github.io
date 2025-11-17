@@ -19,6 +19,7 @@ Current Affiliations
 -------
 * [Sound Interaction and Computing (SInC) Lab](https://www.sinc-lab.com)
 * [NJIT Department of Informatics](https://informatics.njit.edu/)
+* [NJIT Department of Computer Science](https://cs.njit.edu)
 * [NJIT Center for AI Research](https://research.njit.edu/ai/)
 * [NYU Music and Audio Research Laboratory (MARL)](https://steinhardt.nyu.edu/marl)
 
