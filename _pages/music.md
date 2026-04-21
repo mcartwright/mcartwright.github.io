@@ -7,13 +7,13 @@ author_profile: true
 volcano_row:
   - image_path: /assets/images/pinata.jpg
     title: Pi&ntilde;ata (2012)
-    url: http://music.volcanoisaband.com/album/pi-ata
+    url: https://volcanoisaband.bandcamp.com/album/pi-ata
   - image_path: /assets/images/paperwork.jpg
     title: Paperwork (2008)
-    url: http://music.volcanoisaband.com/album/paperwork
+    url: https://volcanoisaband.bandcamp.com/album/paperwork
   - image_path: /assets/images/beautiful_seizure.jpg
     title: Beautiful Seizure (2005)
-    url: http://music.volcanoisaband.com/album/beautiful-seizure
+    url: https://volcanoisaband.bandcamp.com/album/beautiful-seizure
 cmw_row:
   - image_path: /assets/images/six_corners.jpg
     title: Six Corners (2005)
